@@ -1,1 +1,2 @@
 # Game-of-Life-
+This project is an implementation of Conway's Game of Life, an automated simulation that evolves based on initial conditions to create fascinating patterns. The game starts by reading a text file to initialize the 2D grid, which is dynamically allocated using 2D pointers. Various pattern files are included, allowing the game to showcase a range of starting configurations. The project emphasizes the use of programming fundamentals, focusing on dynamic memory allocation and file handling to manage the grid and patterns.
